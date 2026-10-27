@@ -2,7 +2,7 @@
 
 A Streamlit web app that forecasts daily sales for each drug store up to 7 days ahead.
 
-🔗 **Live app:** https://sales-forecast-app-8vrsjnfy6bbcyzhmtb5vtm.streamlit.app
+🔗 **Live app:** https://sales-forecast-app-avq9nqhjapaujnbzaptdaf.streamlit.app/
 
 ## Features
 - Forecast 1–7 days ahead for one or many stores
